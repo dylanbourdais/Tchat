@@ -1,7 +1,0 @@
-1/ Au démarrage de l'application, on veut aller chercher tous les messages
-
-2/ écriture d'un message ==> requête post vers le back
-
-3 / getMessages() : venir récupérer les messages
-
-4/ comment faire pour que toutes les x secondes, je rafraîchis ma liste de messages dans mon front ?
